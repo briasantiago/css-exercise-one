@@ -1,8 +1,10 @@
 body {
+  /* display: main; */
   font-size: 14px;
 }
 
 nav {
+  /* nav: top; */
   background-color: yellow;
   height: 100px;
   margin-top: -10px;
@@ -11,6 +13,7 @@ nav {
 }
 
 section {
+  /* section: main; */
   margin: 0 auto;
   width: 60%;
 }
