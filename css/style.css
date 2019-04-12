@@ -8,7 +8,6 @@ nav {
   background-color: yellow;
   height: 100px;
   margin-top: -10px;
-  position: fixed;
   width: 100%;  
 }
 
@@ -16,6 +15,7 @@ section {
   /* section: main; */
   margin: 0 auto;
   width: 60%;
+  padding-top: 30px;
 }
 
 h1 {
@@ -41,3 +41,5 @@ h3 {
 .blue {
   background-color: blue;
 }
+
+
